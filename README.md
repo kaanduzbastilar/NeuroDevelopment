@@ -29,58 +29,14 @@ You can download project APK file to try it out.
 ![unnamed (4)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/42cd6875-1ec3-463d-ad51-e1613f6b3171)
 
 
-**Ana Ekran - Main Screen**
+**In-App Screenshots - Uygulama Ekran Görüntüleri**
+
+![unnamed](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/5b0027fe-a5b0-4d84-a71a-f0eaa65bd691)
+![unnamed (1)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/9b15c395-8cb2-4dad-9961-26e018839cad)
+![unnamed (2)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/3c79fdf2-dd3f-47f6-ba11-a21407f609c9)
+![unnamed (3)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/4bbd9a3e-34bf-4c3f-8031-cab8c5733271)
 
 
-![Screenshot_5](https://user-images.githubusercontent.com/70735387/206918181-d5912a97-30c2-43e5-8940-25bac2a0a6d3.png)
-
-
-**Akaryakıt Satış Ekranı - Fuel Sales Screen**
-
-
-**[TR]** Sistemde ekli olan müşterilere bu ekran üzerinden akaryakıt satışı yapabilirsiniz.
-
-
-**[EN]** You can sell fuel from this screen to customers which you added to system.
- 
-
-![Screenshot_6](https://user-images.githubusercontent.com/70735387/206918191-9c25a548-bec6-49f9-8a3c-4dfefee0849e.png)
-
-
-**Müşteri İşlemleri Ekranı - Customers Transactions Screen**
-
-
-**[TR]** Bu ekran üzerinden müşteri ekleme-silme-güncelleme işlemlerini yapabilirsiniz.
-
-
-**[EN]** You can add-remove-update customers from this screen.
-
-
-![Screenshot_7](https://user-images.githubusercontent.com/70735387/206918197-4f4559a8-50f5-48a6-8cf5-162cc0e13906.png)
-
-
-**Akaryakıt Kayıt İşlemleri - Fuel Registration Procedures**
-
-
-**[TR]** Bu ekrandan farklı tiplerden akaryakıt ekleme-silme-güncelleme işlemlerini yapıp depodaki yakıtı güncelleyebilirsiniz.
-
-
-**[EN]** You can add-remove-edit different types of fuel to depot from this screen.
-
-
-![Screenshot_8](https://user-images.githubusercontent.com/70735387/206918205-74579940-0e57-4374-8251-78150b5620a7.png)
-
-
-**Personel İşlemleri - Employee Transactions**
-
-
-**[TR]** Bu ekrandan personel ekleyip-silip-güncelleyebilirsiniz.
-
-
-**[EN]** You can add-remove-update employee from this screen.
-
-
-![Screenshot_9](https://user-images.githubusercontent.com/70735387/206918206-07344af0-8aed-45f3-beb3-3abd1b18d36b.png)
 
 
 
