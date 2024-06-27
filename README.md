@@ -29,7 +29,7 @@ You can download project APK file to try it out.
 ![unnamed (4)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/42cd6875-1ec3-463d-ad51-e1613f6b3171)
 
 
-**In-App Screenshots - Uygulama Ekran Görüntüleri**
+##In-App Screenshots - Uygulama Ekran Görüntüleri
 
 ![unnamed](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/5b0027fe-a5b0-4d84-a71a-f0eaa65bd691)
 ![unnamed (1)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/9b15c395-8cb2-4dad-9961-26e018839cad)
@@ -41,22 +41,15 @@ You can download project APK file to try it out.
 
 
   
-## Bilgisayarınızda çalıştırın - Run it on your computer
+## For install to your phone - Telefona yüklemek için
 
-**Projeyi klonlayın - Clone Project**
-
-```bash
-  git clone https://github.com/kaanduzbastilar/Petrol_Otomasyonu.git
-```
-
-
-**veya - or**
+**APK**
 
 
 [Download Release](https://github.com/kaanduzbastilar/Petrol_Otomasyonu/releases/tag/Release)
 
 
-**[TR]** Yukarıdaki link üzerinden release sürümünü yükleyebilirsiniz.
+**[TR]** Yukarıdaki link üzerinden APK dosyasını indirip yükleyebilirsiniz.
 
 
-**[EN]** You can download the release version from the link above.
+**[EN]** You can download the APK file for install.
