@@ -12,7 +12,8 @@
 
 **Turkish**
 
-C# ve SQL kullanılarak geliştirilmiştir, benzinlik takip otomasyonudur.
+Final Projemdir, mobil uygulama içinde birden fazla oyun bulunmaktadır amaç otistik ve normal bireylerin gelişimine katkı sağlamak amacıyla geliştirilmiştir, uygulama önceden Google Play
+üzerinde bulunuyordu fakat donanım sorunu nedeniyle proje dosyalarını kaybettiğimden uygulamanın SDK'lerini güncelleyemediğim için uygulama otomatik olarak mağazadan kaldırılmış durumda.
 
 **English**
 
@@ -25,22 +26,7 @@ You can download project APK file to try it out.
 <br>
 
 
-## Proje Kullanımı - Project Usage
-**Personel Giriş Ekranı - Employee Login Screen**
-
-
-Kullanıcı Adı - User Name: personel1
-
-
-Şifre - Password : personel1
-
-
-**[TR]** Yukarıdaki bilgilerle giriş yapabilirsiniz veya yeni üyelik oluşturabilirsiniz.
-
-**[EN]** You can use the above information or create new account.
-
-
-![Screenshot_4](https://user-images.githubusercontent.com/70735387/206917844-d9a8ad57-d39f-4c4e-bf42-9ecba7b6c1ee.png)
+![unnamed (4)](https://github.com/kaanduzbastilar/NeuroDevelopment/assets/70735387/42cd6875-1ec3-463d-ad51-e1613f6b3171)
 
 
 **Ana Ekran - Main Screen**
