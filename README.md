@@ -43,13 +43,13 @@ You can download project APK file to try it out.
   
 ## For install to your phone - Telefona yüklemek için
 
-**APK**
+**APK File for Download - APK Dosyasını İndir**
 
 
 [Download Release](https://github.com/kaanduzbastilar/Petrol_Otomasyonu/releases/tag/Release)
 
 
-**[TR]** Yukarıdaki link üzerinden APK dosyasını indirip yükleyebilirsiniz.
-
-
 **[EN]** You can download the APK file for install.
+
+
+**[TR]** Yukarıdaki link üzerinden APK dosyasını indirip yükleyebilirsiniz.
