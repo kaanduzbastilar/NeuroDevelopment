@@ -46,7 +46,7 @@ You can download project APK file to try it out.
 **APK File for Download - APK Dosyasını İndir**
 
 
-[Download Release](https://github.com/kaanduzbastilar/Petrol_Otomasyonu/releases/tag/Release)
+[Download Release](https://github.com/kaanduzbastilar/NeuroDevelopment/releases/tag/v1.0)
 
 
 **[EN]** You can download the APK file for install.
